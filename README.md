@@ -1,7 +1,7 @@
 # EuroApplication
 This is a application tutorial for younger students in HCI and Digital Media.
-## 这是一份给人机交互和数字媒体的申请教程。
-Figma的PPT文档地址：
+## 这是一份欧陆给人机交互和数字媒体的申请教程。我陆陆续续做了三个周，希望你也能够把这份火传下去。世界不是因为我，而是因为你而美好。
+Figma的源文档地址：
 https://www.figma.com/community/file/1367396290294286775
 
 材料谷歌共享文件夹（已包含在当前仓库）：
