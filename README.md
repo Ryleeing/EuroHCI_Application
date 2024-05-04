@@ -10,3 +10,5 @@ https://drive.google.com/drive/folders/1k2B-JjiZ4t4QPWnmGtMGqs-szrTN3lfi?usp=dri
 
 欧陆留学指北UP主系列综述：
 https://docs.qq.com/doc/DRENNZVlraXVGZnpa
+
+友情链接：DIY共享编辑文档（所有专业）：【腾讯文档】DIY留学指北https://docs.qq.com/aio/DRGlmTG5LanhPSUdP
